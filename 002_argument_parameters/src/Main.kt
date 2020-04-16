@@ -46,4 +46,7 @@ fun main() {
     // If you specify one parameter, you must specify ALL parameters
     println("--- --- ---")
     sayHello2(greeting = "Hello,", itemsToGreet = *intThings2)
+
+    val testVar = 2 * Math.PI
+    println(testVar)
 }
